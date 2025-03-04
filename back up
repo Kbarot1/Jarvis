@@ -390,7 +390,7 @@ if __name__ == '__main__':
 
 config.py:  ```
 
-apikey = "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"
+apikey = "--"
 ```   ,
 
 openaitest.py:  ```
